@@ -170,6 +170,26 @@ button:hover {
     font-size: 10px;
   }
 
-  
-  
+.lb-nav a.lb-prev {
+  width: 20%;
+  background: url(../images/left.png) left 48% no-repeat;
+}
+
+.lb-nav a.lb-next {
+  width: 20%;
+  background: url(../images/right.png) right 48% no-repeat;
+}
+
+.lb-data .lb-caption {
+  font-size: 100px;
+  font-weight: bold;
+  line-height: 1em;
+  background-color: white;
+  color: black;
+}
+
+.lb-data .lb-number {
+  color: black;
+  background-color: white;
+}
 
